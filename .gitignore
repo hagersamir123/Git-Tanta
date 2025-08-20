@@ -1,0 +1,4 @@
+data.txt
+cake4.webp
+*.jpeg
+!cake3.jpeg
